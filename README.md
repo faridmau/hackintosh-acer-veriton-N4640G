@@ -1,0 +1,1 @@
+# hackintosh-acer-veriton-N4640G
