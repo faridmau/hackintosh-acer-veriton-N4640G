@@ -2,7 +2,7 @@
 # hackintosh-acer-veriton-N4640G
 ![git](https://user-images.githubusercontent.com/25664355/220117687-8e56ec71-2e5c-482c-a27a-1486e029cbd1.png)
 
-Acer Veriton N N4640G i3-6100T mini PC Intel® Core™ i3
+Acer Veriton N N4640G i3-7100T mini PC Intel® Core™ i3
 
 # Specs
 - Business Mini PC Black 65 W
